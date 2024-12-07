@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton+SC&size=50&pause=1000&color=F70000&width=500&height=200&lines=Bleddilyn+Michel+;I'm+17+years+old)](https://git.io/typing-svg)
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bleddilyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleddilyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false&order=2" height="150" alt="languages graph" />
