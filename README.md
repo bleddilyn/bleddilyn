@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/31j6mgithxxjqacgqqawoasochtu?si=41cZoX-CRSqPcV8c_47olw" target="_blank">
-  <img align="center" height="84" width="84" src="https://i.pinimg.com/originals/34/e3/a1/34e3a1db064ea0679804fc0a37400998.png">
+  <img align="center" height="82" width="82" src="https://i.pinimg.com/originals/34/e3/a1/34e3a1db064ea0679804fc0a37400998.png">
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=16974033367&text&type=phone_number&app_absent=0>" target="_blank">
