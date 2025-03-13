@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://cdn.marvel.com/content/1x/005smp_com_mas_dsk_03_3.jpg"/>
+<img width=100% bottom=50px src="https://cdn.sanity.io/images/am4afyf0/production/ea6f4e331410dbe78012badadf03c0b043984260-1312x619.png"/>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton+SC&size=50&pause=1000&color=F70000&width=500&height=200&lines=Bleddilyn+Michel+;I'm+17+years+old)](https://git.io/typing-svg)
