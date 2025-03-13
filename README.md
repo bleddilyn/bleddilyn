@@ -37,5 +37,5 @@
   <img width="12" />
 </div>
 
-<img align="right" height="150" src="https://66.media.tumblr.com/1badc6a0575f680674fbfbf7583ceff6/01b4b006bd007f92-e1/s400x600/60a1d45ae370c2fd9ff0fd7183a14b38b081db56.gif"/>
+<img align="right" width="200" height="190" src="https://media.tenor.com/xILbkTIy40MAAAAM/franco-colapinto-franco.gif"/>
 
