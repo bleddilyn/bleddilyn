@@ -10,30 +10,31 @@
 
 <div align="center">
 <a href="https://www.instagram.com/bledmichel/" target="_blank">
-  <img align="center" height="84" width="84" src="https://parspng.com/wp-content/uploads/2021/09/Instagram.parspng.com-5.png">
+  <img align="center" height="84" width="84" src="https://img.icons8.com/m_outlined/512/228BE6/instagram-new.png">
 </a>
 
 <a href="https://open.spotify.com/user/31j6mgithxxjqacgqqawoasochtu?si=41cZoX-CRSqPcV8c_47olw" target="_blank">
-  <img align="center" height="82" width="82" src="https://i.pinimg.com/originals/34/e3/a1/34e3a1db064ea0679804fc0a37400998.png">
+  <img align="center" height="82" width="82" src="https://www.shareicon.net/data/512x512/2016/10/18/844301_music_512x512.png">
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=16974033367&text&type=phone_number&app_absent=0>" target="_blank">
-  <img align="center" height="84" width="84" src="https://parspng.com/wp-content/uploads/2022/10/WhatsApp-png.parspng.com-14.png">
+  <img align="center" height="84" width="84" src="https://img.icons8.com/ios11/512/228BE6/whatsapp.png">
 </a>
 </div>
 
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbleddilyn&s=40&c=ff0000&bg=00000000&no=2&ff=digi&tb=Visits%3A++&ta=" alt="visits">
+  <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fbleddilyn&s=40&c=0091ff&bg=00000000&no=3&ff=electrolize&tb=Visits%3A+&ta=" alt="visits">
 </div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin-top: 20px;"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin-top: 20px;"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin-top: 20px;"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin-top: 20px;"/>
   <img width="12" />
 </div>
 
